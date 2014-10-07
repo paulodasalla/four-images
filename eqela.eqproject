@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem1activitydasalla
+#
+
+projectname: sem1activitydasalla
+vendorid: com.paulodasalla
+mainmodule: com.paulodasalla.sem1activitydasalla
